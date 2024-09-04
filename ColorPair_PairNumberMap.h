@@ -1,11 +1,11 @@
 #pragma once
 
+#include "ColorTypes.h"
+
 
 namespace TelCoColorCoder
 {
-  class ColorPair;
-  enum MajorColor;
-  enum MinorColor;
+  class ColorPair;  
 
   class ColorPair_PairNumberMap
   {
